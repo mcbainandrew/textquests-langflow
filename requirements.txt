@@ -1,0 +1,6 @@
+jericho
+anthropic
+openai
+fire
+PyYAML
+httpx
