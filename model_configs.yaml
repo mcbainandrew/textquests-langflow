@@ -83,6 +83,6 @@ llama-4-maverick:
     api_base_url: http://0.0.0.0:8000/v1
 
 langflow:
-  model: langflow/08744c58-7452-4eae-bae7-fc98e5eb6b1d # langflow/'your-flow-id'
+  model: langflow/a746f11d-02fa-4c41-8d48-01a49ad702a6 # langflow/'your-flow-id'
   generation_config:
     api_base_url: http://localhost:7860/api/v1

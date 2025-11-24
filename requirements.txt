@@ -4,3 +4,8 @@ openai
 fire
 PyYAML
 httpx
+python-dotenv
+tqdm
+pydantic
+numpy
+mgrep
